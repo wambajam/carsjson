@@ -13,5 +13,10 @@
 		"name": "Chevy Camero",
 		"engine": "V8",
 		"package": ["Track Ready", "Sports Package","Custom Colors"]
+	},
+	{
+		"name": "Porsche 911",
+		"engine": "6-cylinder",
+		"package": ["Track Ready", "Sports Package","Custom Colors"]
 	}
 ]
